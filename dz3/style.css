@@ -1,0 +1,26 @@
+header {
+    background-color: #E8AA4C;
+    height: 60px;
+}
+
+.img_pk {
+    width: 300px;
+    height: 300px;
+}
+
+.quote {
+    background-color: #F4E5CB;
+}
+
+footer {
+    background-color: #5F23B4;
+    height: 300px;
+}
+
+.section_footer {
+    color: white;
+}
+
+a {
+    color: white;
+}
